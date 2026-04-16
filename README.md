@@ -3,7 +3,7 @@ source .venv/bin/activate      #  Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 #docker
-ourvir docker puis dans le terminal: docker compose up --build
+docker puis dans le terminal: docker compose up --build
 
 
 URL: http://localhost:8000/docs
